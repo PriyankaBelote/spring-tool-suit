@@ -1,0 +1,5 @@
+package com.techno.employeemanagement.entity;
+
+public class EmployeeEducationInfo {
+
+}

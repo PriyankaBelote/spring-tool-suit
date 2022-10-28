@@ -1,0 +1,29 @@
+package com.techno.employeemanagement.entity;
+
+import java.io.Serializable;
+
+import javax.annotation.Generated;
+import javax.persistence.CascadeType;
+import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
+import javax.persistence.Id;
+import javax.persistence.OneToOne;
+
+import lombok.Data;
+
+@Data
+@Entity
+public class EmployeeSecondaryInfo {
+	@Id
+	@GeneratedValue(strategy = GenerationType.IDENTITY)
+	private String empSecId;
+	private String empPanCard;
+	private String empMotherName;
+	private String empFatherName;
+	private String empHeight;
+	private String empDoj;
+
+	@OneToOne(cascade = CascadeType.ALL)
+	private EmployeePrimaryInfo employeePrimaryInfo;
+}

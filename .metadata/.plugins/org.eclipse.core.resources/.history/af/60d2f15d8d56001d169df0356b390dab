@@ -1,0 +1,9 @@
+package com.techno.employeemanagement.service;
+
+import com.techno.employeemanagement.entity.EmployeePrimaryInfo;
+
+public interface EmployeeSevice {
+
+	EmployeePrimaryInfo getRegister(EmployeePrimaryInfo employeePrimaryInfo);
+
+}

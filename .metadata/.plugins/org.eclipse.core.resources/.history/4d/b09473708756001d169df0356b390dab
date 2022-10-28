@@ -1,0 +1,5 @@
+package com.techno.employeemanagement.service;
+
+public interface EmployeeSevice {
+
+}
