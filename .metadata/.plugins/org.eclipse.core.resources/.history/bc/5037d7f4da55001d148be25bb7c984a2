@@ -1,5 +1,0 @@
-package com.techno.springboot1.service;
-
-public class EmployeeServiceImpl {
-
-}

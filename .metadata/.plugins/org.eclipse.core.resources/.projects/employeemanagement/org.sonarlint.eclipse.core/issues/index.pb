@@ -17,3 +17,15 @@ Y
 )src/main/resources/application.properties,0\6\06f65155ec73600b9fc5c4dc2883d4bb84d8e284
 }
 Msrc/main/java/com/techno/employeemanagement/entity/EmployeeSecondaryInfo.java,2\f\2f265341afeaa472dc1ad1635b47e3a98b8dc7e9
+}
+Msrc/main/java/com/techno/employeemanagement/entity/EmployeeEducationInfo.java,0\c\0cc233f014e2117e478f8b762c349070eae74027
+|
+Lsrc/test/java/com/techno/employeemanagement/Springboot1ApplicationTests.java,7\3\73f2b773a58d8d9d6fb3320cafa61a25b40799fd
+p
+@src/main/java/com/techno/employeemanagement/dto/EmployeeDto.java,2\9\29fb39a02025caa519dc48b993ab339146e9fa90
+p
+@src/main/java/com/techno/employeemanagement/dto/ResponseDto.java,b\9\b98a08c1f73c8a596a09ae9b5fa92c156291a179
+m
+=src/main/java/com/techno/employeemanagement/dto/LoginDto.java,9\2\928ed7052c357c5b0021b1c46df25b2edfbdd374
+v
+Fsrc/main/java/com/techno/employeemanagement/entity/EmployeeSkills.java,8\f\8f18d151f3e0d727c5bacdf93784b04185c33fd9

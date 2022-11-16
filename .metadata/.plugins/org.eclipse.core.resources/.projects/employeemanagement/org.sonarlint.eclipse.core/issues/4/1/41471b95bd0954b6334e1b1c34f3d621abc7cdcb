@@ -1,12 +1,33 @@
 
-Œ
-java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(“˜úï8Ä˜àéÁ0H‡RMINORZ
+a
+java:S1452_"&Remove usage of generic wildcard type.(È”è·ıÿÿÿÿ8Ä˜àéÁ0HÀRCRITICALZ
 CODE_SMELL
 Œ
-java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(úì•ã8Ä˜àéÁ0H‰RMINORZ
+java:S2293("YReplace the type specification in this constructor call with the diamond operator ("<>").(“˜úï8ƒ”íŒÃ0HÁRMINORZ
+CODE_SMELL
+‘
+java:S2293E"YReplace the type specification in this constructor call with the diamond operator ("<>").(€ÈîÙıÿÿÿÿ8Ñ¯ãÃ0HÃRMINORZ
+CODE_SMELL
+\
+java:S1452L"&Remove usage of generic wildcard type.(ŒâÛã8Ñ¯ãÃ0HÅRCRITICALZ
+CODE_SMELL
+Œ
+java:S2293*"YReplace the type specification in this constructor call with the diamond operator ("<>").(úì•ã8ÇÏ¦Ã0HÆRMINORZ
+CODE_SMELL
+d
+java:S1135d"2Complete the task associated to this TODO comment.(‡ñÅ¼8Ë®”Ã0HÈRINFOZ
+CODE_SMELL
+s
+java:S3516_"9Refactor this method to not always return the same value.(È”è·ıÿÿÿÿ8Ë®”Ã0HÉRBLOCKERZ
+CODE_SMELL
+a
+java:S1452%"&Remove usage of generic wildcard type.(¥»µøÿÿÿÿ8ú™±”Ã0HÌRCRITICALZ
+CODE_SMELL
+\
+java:S1452@"&Remove usage of generic wildcard type.(Äø˜ä8×Ã0HÍRCRITICALZ
+CODE_SMELL
+‘
+java:S2293C"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÍèüŸıÿÿÿÿ8Ñ¯ãÃ0HÎRMINORZ
 CODE_SMELL
 ~
-java:S4684"@Replace this persistent entity with a simple POJO or DTO object.(¥»µøÿÿÿÿ8Ä˜àéÁ0H‹RCRITICALZVULNERABILITY
-a
-java:S1452"&Remove usage of generic wildcard type.(¥»µøÿÿÿÿ8Ä˜àéÁ0HŒRCRITICALZ
-CODE_SMELL
+java:S4684%"@Replace this persistent entity with a simple POJO or DTO object.(¥»µøÿÿÿÿ8ƒ”íŒÃ0HĞRCRITICALZVULNERABILITY

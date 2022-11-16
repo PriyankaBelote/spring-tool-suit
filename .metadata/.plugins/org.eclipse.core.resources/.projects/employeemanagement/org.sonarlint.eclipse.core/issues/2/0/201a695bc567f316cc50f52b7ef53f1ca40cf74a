@@ -1,4 +1,4 @@
 
-m
-java:S1948 "7Make "employeeSecondaryInfo" transient or serializable.(Á–¢É8ó‚ûÏ¡0H√RCRITICALZ
+r
+java:S1128"@Remove this unused import 'org.hibernate.annotations.ManyToAny'.(‰ƒË,8ÅÑ√¥√0HÊRMINORZ
 CODE_SMELL

@@ -1,5 +1,0 @@
-package com.techno.employeemanagement.dao;
-
-public interface EmployeeDao {
-
-}

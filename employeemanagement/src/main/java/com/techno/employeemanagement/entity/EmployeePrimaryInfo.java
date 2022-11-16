@@ -5,8 +5,11 @@ import java.util.List;
 import javax.persistence.CascadeType;
 import javax.persistence.Entity;
 import javax.persistence.Id;
+import javax.persistence.ManyToMany;
 import javax.persistence.OneToMany;
 import javax.persistence.OneToOne;
+
+import org.hibernate.annotations.ManyToAny;
 
 import com.fasterxml.jackson.annotation.JsonManagedReference;
 
@@ -23,6 +26,7 @@ public class EmployeePrimaryInfo {
 	private String empDesignation;
 	private String empBloodGroup;
 	private String empEmailId;
+	private String password;
 	private String empDOB;
 	private String empMaritalStatus;
 	private String empGender;
@@ -35,5 +39,9 @@ public class EmployeePrimaryInfo {
 	@OneToMany(cascade = CascadeType.ALL, mappedBy = "employeePrimaryInfo")
 	@JsonManagedReference
 	private List<EmployeeEducationInfo> employeeEducationInfo;
+
+	@ManyToMany(cascade = CascadeType.ALL, mappedBy = "employeePrimaryInfo")
+	@JsonManagedReference
+	private List<EmployeeSkills> employeeSkills;
 
 }

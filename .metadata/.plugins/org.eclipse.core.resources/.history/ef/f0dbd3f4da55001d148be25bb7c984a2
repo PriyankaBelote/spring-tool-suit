@@ -1,5 +1,0 @@
-package com.techno.springboot1.dao;
-
-public interface EmployeeDao {
-
-}

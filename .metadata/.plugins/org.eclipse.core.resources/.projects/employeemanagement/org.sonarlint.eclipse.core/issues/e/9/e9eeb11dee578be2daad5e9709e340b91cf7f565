@@ -1,4 +1,13 @@
 
+g
+java:S1128"/Remove this unused import 'java.util.Optional'.(¨˜ëÝüÿÿÿÿ8’Ë®”Ã0HÑRMINORZ
+CODE_SMELL
+|
+java:S1128"DRemove this unused import 'org.springframework.http.ResponseEntity'.(¶¯ø¦úÿÿÿÿ8í—Ÿ¡Ã0HÓRMINORZ
+CODE_SMELL
+n	java:S125"<This block of commented-out lines of code should be removed.(š±‰à8’Ë®”Ã0HÕRMAJORZ
+CODE_SMELL
 Š
-java:S1128"WRemove this unused import 'com.techno.employeemanagement.entity.EmployeeSecondaryInfo'.(ú©¯‹8§ì›ëÁ0H¦RMINORZ
+java:S1128
+"WRemove this unused import 'com.techno.employeemanagement.entity.EmployeeSecondaryInfo'.(ú©¯‹8§ì›ëÁ0HÖRMINORZ
 CODE_SMELL

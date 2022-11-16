@@ -1,0 +1,31 @@
+
+b
+java:S1128"/Remove this unused import 'java.util.Iterator'.(¥ÍòÕ8ï‹Ÿ¡Ã0HÁ/RMINORZ
+CODE_SMELL
+¼
+java:S1186?"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(•™èéúÿÿÿÿ8åãÃ0HÃ/RCRITICALZ
+CODE_SMELL
+s	java:S125D"<This block of commented-out lines of code should be removed.(ª‰äùÿÿÿÿ8ª®“–Ã0HÅ/RMAJORZ
+CODE_SMELL
+g
+java:S1128"/Remove this unused import 'java.util.Optional'.(¨˜ëİüÿÿÿÿ8ï‹Ÿ¡Ã0HÑ/RMINORZ
+CODE_SMELL
+n
+java:S1612%";Replace this lambda with method reference 'employees::add'.(ª¼Œ8˜ÊÁÍÂ0HÓ/RMINORZ
+CODE_SMELL
+|
+java:S1128
+"DRemove this unused import 'org.springframework.http.ResponseEntity'.(¶¯ø¦úÿÿÿÿ8ï‹Ÿ¡Ã0HÕ/RMINORZ
+CODE_SMELL
+c
+java:S3655Y"7Call "Optional#isPresent()" before accessing the value.(’°Ë‹8ï‹Ÿ¡Ã0H×/RMAJORZBUG
+Œ
+java:S2293$"YReplace the type specification in this constructor call with the diamond operator ("<>").(üÇ£Ÿ8˜ÊÁÍÂ0HØ/RMINORZ
+CODE_SMELL
+n	java:S125a"<This block of commented-out lines of code should be removed.(¿„ÿ´8ÓÅ‰ Ã0HÚ/RMAJORZ
+CODE_SMELL
+h
+java:S3655+"7Call "Optional#isPresent()" before accessing the value.(ˆ éÙşÿÿÿÿ8¦Ù·ÎÂ0Hâ/RMAJORZBUG
+ƒ
+java:S1128"PRemove this unused import 'com.techno.employeemanagement.entity.EmployeeSkills'.(¥®8°ï½‰Ä0Hã/RMINORZ
+CODE_SMELL
